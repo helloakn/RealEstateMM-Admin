@@ -1,0 +1,16 @@
+.title {
+    margin-left: 20px;
+}
+.add > a {
+    padding: 10px 50px;
+}
+.side {
+    background-color: lavender;
+}
+.card-table{
+    word-break: break-all;
+}
+.language{
+    font-family: sans-serif, Arial;
+    font-size: 15px;
+}
